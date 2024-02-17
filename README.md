@@ -1,3 +1,3 @@
-### Demo
+### Github
 
-https://code-sync.codersgyan.com/
+https://github.com/gauravraj08
